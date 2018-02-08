@@ -1,0 +1,10 @@
+Real Madrid-Spain-La Liga-white
+Manchester United-England-Premier League-red
+Internazionale-Italy-Serie A-blue/black
+Garabagh-Azerbaijan-Premier League-black
+Napoli-Italy-Serie A-lightblue
+Arsenal-England-Premier League-white/red
+Galatasaray-Turkey-Super Lig-yellow/red
+Juventus-Italy-Serie A-white/black
+Atletico Madrid-Spain-La Liga-white/red
+Porto-Portugal-Primeira Liga-white/blue
